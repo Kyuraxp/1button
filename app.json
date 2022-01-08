@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Kyuraxp/Kyura-filesharing",
+  "repository": "https://github.com/Kyuraxp/Ngentot",
   "logo": "https://telegra.ph/file/d841005eca08d0ed2ef36.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "5041386707"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
