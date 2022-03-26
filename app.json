@@ -6,16 +6,16 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Kyuraxp/heheh",
+  "repository": "https://github.com/Kyuraxp/1button",
   "logo": "https://telegra.ph/file/d841005eca08d0ed2ef36.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "5234578746:AAEWZtPJR-UEQbzHChjoK2FFO5OVSGMPkT0"
+      "value": "5219378104:AAHNL9-34MvyPHVoUbzNyRo52iSrOM3f9rM"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1677965140"
+      "value": "1954289347"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -27,11 +27,11 @@
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-1001750985810"
+      "value": "-1001680547816"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "-1001454758423"
+      "value": "-1001368324564"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
@@ -43,7 +43,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "1677965140",
+      "value": "1954289347",
       "required": false
     }
   },
